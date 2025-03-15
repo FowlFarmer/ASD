@@ -1,5 +1,12 @@
 # Project Overview
 
+This was developed in the fork https://github.com/FowlFarmer/wato_asd_project
+However, I wanted to showcase the developed code in my own repo. 
+## Feel free to check out the git commit history of the forked repo.
+
+Video demo: https://www.youtube.com/watch?v=LWBjHgwYJAU
+My portfolio: portfoliotheodore.weebly.com
+
 This project is a comprehensive implementation of a robotic system using ROS2 (Robot Operating System 2). The system includes various nodes that handle different aspects of robot navigation, such as path planning, costmap generation, control, and map memory. The project showcases advanced algorithms and techniques used in robotics, including A* pathfinding, costmaps, map fusion, ray tracing, pure pursuit control, and differential drive.
 
 ## Project Structure
